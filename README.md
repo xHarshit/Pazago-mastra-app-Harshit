@@ -7,7 +7,7 @@ This repository contains the backend implementation for the **Pazago RAG Assignm
 ## 🙋 Author Information
 
 - **Name:** Harshit Mhatre  
-- **TUF College ID:** TU8F2122024  
+- **College ID:** TU8F2122024  
 
 This repository is part of the backend assignment given as part of the Pazago Drive.
 
