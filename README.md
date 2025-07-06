@@ -8,7 +8,6 @@ This repository contains the backend implementation for the **Pazago RAG Assignm
 
 - 👤 **Name:** Harshit Mhatre  
 - 🏫 **TUF College ID:** TU8F2122024  
-- 🧑‍💻 **GitHub:** [@xHarshit](https://github.com/xHarshit)
 
 This repository is part of the backend assignment given to all applicants as part of the Pazago Drive.
 
@@ -59,8 +58,8 @@ All shareholder letters (2019–2024) are downloaded from this [Google Drive fol
 
 ```bash
 # Clone the repository
-git clone https://github.com/xHarshit/pazago-rag-backend.git
-cd pazago-rag-backend
+git clone https://github.com/xHarshit/Pazago-mastra-app-Harshit.git
+cd Pazago-mastra-app-Harshit
 
 # Install dependencies
 npm install
@@ -69,11 +68,14 @@ npm install
 cp .env.example .env
 # Fill in OpenAI API key and PostgreSQL credentials
 
-# Run document ingestion
-npx tsx processLetters.mts
+# Parse all PDFs and extract raw text
+npx tsx scripts/documentParser.ts
 
-# (Coming Soon) Run the AI Agent
-npx tsx runAgent.mts
+# Generate embeddings and store them in PostgreSQL
+npx tsx scripts/documentIngestion.ts
+
+# (In progress) Run the AI Agent
+npx tsx berkshire-agent.ts
 ```
 
 ---
@@ -99,8 +101,6 @@ Build a production-ready RAG system that:
 - Follows Mastra’s backend architecture
 
 ---
-
-## 📄 License
 
 MIT License.  
 Feel free to fork, improve, and contribute!
