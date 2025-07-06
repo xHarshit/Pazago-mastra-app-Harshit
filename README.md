@@ -88,7 +88,7 @@ npx tsx berkshire-agent.ts
 | Document Ingestion            | ✅ Complete     |
 | Vector DB Integration         | ✅ Complete     |
 | AI Agent Implementation       | 🔄 In Progress  |
-| Frontend Chat UI (Optional)   | ⏳ Pending      |
+| Frontend Chat UI              | ⏳ Pending      |
 
 ---
 
