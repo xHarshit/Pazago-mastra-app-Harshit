@@ -99,5 +99,3 @@ Build a production-ready RAG system that:
 - Maintains conversation memory
 - Cites exact shareholder letters
 - Follows Mastra’s backend architecture
-
----
