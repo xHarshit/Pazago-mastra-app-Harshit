@@ -1,0 +1,64 @@
+================================================================================
+PDF PARSING SUMMARY REPORT
+================================================================================
+Generated: 2025-07-05T11:56:58.627Z
+Total Documents Processed: 48
+Total Pages: 931
+Total Words: 5,35,318
+Total Characters: 34,48,570
+
+PROCESSED DOCUMENTS:
+--------------------------------------------------------------------------------
+1977                           |   6 pages |    3,094 words
+1978                           |   8 pages |    4,416 words
+1979                           |  12 pages |    6,735 words
+1980                           |  14 pages |    7,573 words
+1981                           |  13 pages |    6,696 words
+1982                           |  12 pages |    7,922 words
+1983                           |  20 pages |   11,588 words
+1984                           |  22 pages |   12,756 words
+1985                           |  24 pages |   13,757 words
+1986                           |  24 pages |   13,792 words
+1987                           |  23 pages |   12,643 words
+1988                           |  22 pages |   11,820 words
+1989                           |  26 pages |   14,596 words
+1990                           |  23 pages |   16,153 words
+1991                           |  17 pages |    9,245 words
+1992                           |  20 pages |   11,338 words
+1993                           |  20 pages |   11,167 words
+1994                           |  18 pages |    9,718 words
+1995                           |  21 pages |   12,056 words
+1996                           |  17 pages |   11,692 words
+1997                           |  18 pages |   11,913 words
+1998                           |  17 pages |   11,255 words
+1999                           |  17 pages |   12,222 words
+2000                           |  20 pages |   13,101 words
+2001                           |  18 pages |   12,176 words
+2002                           |  22 pages |   14,393 words
+2003                           |  22 pages |   12,844 words
+2004                           |  25 pages |   14,718 words
+2005                           |  22 pages |   13,320 words
+2006                           |  23 pages |   14,514 words
+2007                           |  21 pages |   12,267 words
+2008                           |  22 pages |   12,930 words
+2009                           |  19 pages |   11,016 words
+2010                           |  27 pages |   14,498 words
+2011                           |  21 pages |   13,612 words
+2012                           |  23 pages |   13,566 words
+2013                           |  23 pages |   12,966 words
+2014                           |  42 pages |   23,059 words
+2015                           |  30 pages |   16,337 words
+2016                           |  28 pages |   15,383 words
+2017                           |  16 pages |    8,653 words
+2018                           |  14 pages |    7,056 words
+2019                           |  13 pages |    6,959 words
+2020                           |  14 pages |    6,840 words
+2021                           |  11 pages |    4,835 words
+2022                           |  10 pages |    3,437 words
+2023                           |  16 pages |    6,941 words
+2024                           |  15 pages |    5,750 words
+
+FILES LOCATION:
+Input Folder: D:\Coding\VS Code\mastra-app\documents\Letters
+Output Folder: D:\Coding\VS Code\mastra-app\documents\parseData
+================================================================================

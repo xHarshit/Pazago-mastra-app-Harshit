@@ -1,0 +1,47 @@
+{
+  "name": "my-mastra-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "mastra dev",
+    "build": "mastra build",
+    "start": "mastra start",
+    "parse:pdfs": "ts-node src/scripts/parsePDF.ts",
+    "mdoc:preview": "ts-node src/scripts/loadDocuments.ts",
+    "pdfparser": "ts-node src/scripts/documentParser.ts",
+    "ingest": "ts-node scripts/documentIngestion.ts"
+
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "engines": {
+    "node": ">=20.9.0"
+  },
+  "dependencies": {
+    "@ai-sdk/openai": "^1.3.22",
+    "@mastra/core": "^0.10.10",
+    "@mastra/libsql": "^0.11.0",
+    "@mastra/loggers": "^0.10.3",
+    "@mastra/memory": "^0.11.1",
+    "@mastra/openai": "^1.0.1-alpha.48",
+    "@mastra/pg": "^0.12.1",
+    "@mastra/rag": "^1.0.1",
+    "@prisma/client": "^6.11.1",
+    "parse": "^6.1.1",
+    "pdf": "^0.1.0",
+    "pdf-parse": "^1.1.1",
+    "zod": "^3.25.74"
+  },
+  "devDependencies": {
+    "@types/node": "^24.0.10",
+    "@types/pdf-parse": "^1.1.5",
+    "mastra": "^0.10.10",
+    "prisma": "^6.11.1",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.8.3"
+  }
+}

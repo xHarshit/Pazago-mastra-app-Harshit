@@ -1,0 +1,9 @@
+{
+  "D:\\Coding\\VS Code\\mastra-app\\.mastra\\.build\\@mastra-loggers.mjs": {
+    "pino": "D:\\Coding\\VS Code\\mastra-app\\node_modules\\@mastra\\loggers\\dist\\index.js",
+    "pino-pretty": "D:\\Coding\\VS Code\\mastra-app\\node_modules\\@mastra\\loggers\\dist\\index.js"
+  },
+  "D:\\Coding\\VS Code\\mastra-app\\.mastra\\.build\\@mastra-libsql.mjs": {
+    "@libsql/client": "D:\\Coding\\VS Code\\mastra-app\\node_modules\\@mastra\\libsql\\dist\\index.js"
+  }
+}
