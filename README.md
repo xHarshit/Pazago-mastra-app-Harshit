@@ -101,10 +101,3 @@ Build a production-ready RAG system that:
 - Follows Mastra’s backend architecture
 
 ---
-
-MIT License.  
-Feel free to fork, improve, and contribute!
-
----
-
-> **Submitted as part of Pazago Backend Engineer Assignment**
